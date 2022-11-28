@@ -6,7 +6,6 @@ import Header from './components/Header';
 const MarketingApp = lazy(() => import('./components/MarketingApp'));
 const AuthApp = lazy(() => import('./components/AuthApp'));
 const DashboardApp = lazy(() => import('./components/DashboardApp'));
-
 import {
   StylesProvider,
   createGenerateClassName,
