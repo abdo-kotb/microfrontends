@@ -4,7 +4,6 @@ import {
   StylesProvider,
   createGenerateClassName,
 } from '@material-ui/core/styles';
-
 import Signin from './components/Signin';
 import Signup from './components/Signup';
 
